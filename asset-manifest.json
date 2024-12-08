@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dofus-mines/static/css/main.564fb50a.css",
+    "main.js": "/dofus-mines/static/js/main.a6eecf32.js",
+    "static/js/488.bf7c97a4.chunk.js": "/dofus-mines/static/js/488.bf7c97a4.chunk.js",
+    "index.html": "/dofus-mines/index.html",
+    "main.564fb50a.css.map": "/dofus-mines/static/css/main.564fb50a.css.map",
+    "main.a6eecf32.js.map": "/dofus-mines/static/js/main.a6eecf32.js.map",
+    "488.bf7c97a4.chunk.js.map": "/dofus-mines/static/js/488.bf7c97a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.564fb50a.css",
+    "static/js/main.a6eecf32.js"
+  ]
+}
